@@ -1,0 +1,20 @@
+{
+    "name": "my_package",
+    "description": "",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "npm install --save-dev firebase-tools"
+    },
+    "repository": {
+      "type": "git",
+      "url": "x"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "xxx",
+    "bugs": {
+      "url": "https://github.com/xxx/my_package/issues"
+    },
+    "homepage": "https://github.com/xxx/my_package"
+  }
+}
