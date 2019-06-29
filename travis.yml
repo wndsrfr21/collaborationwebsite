@@ -1,5 +1,5 @@
 language: node_js
-lauguage: node_js
+lauguage: html
 
 node_js:
   - "5.11"
