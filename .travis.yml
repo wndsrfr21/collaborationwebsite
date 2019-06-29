@@ -1,4 +1,4 @@
-language: generic
+language: node_js
 
 node_js:
   - "8"
@@ -11,4 +11,4 @@ before_script:
   - npm install -g firebase-tools
 
 after_success:
-  - firebase deploy --token=${FIREBASE_TOKEN}
+  - firebase deploy --token "$FIREBASE_TOKEN"
